@@ -1,0 +1,14 @@
+name: basher_assemble
+description: A new Flutter project.
+# ... (other metadata)
+
+# For details regarding fonts from package dependencies,
+# see https://flutter.dev/custom-fonts/#from-packages
+flutter:
+  # ... (other Flutter configurations)
+
+  fonts:
+    - family: Schyler
+      fonts:
+        - asset: fonts/Schyler-Regular.ttf
+          # ... (other font configurations)
